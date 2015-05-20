@@ -1,0 +1,1 @@
+[11-May-2015 19:22:06 UTC] PHP Fatal error:  Call to private method EmployeeDataManager::getUnprocessedEmployeeImages() from context 'EmployeeImageHandler' in /home/daniel/projects/lib/controller/EmployeeImageHandler.php on line 23
