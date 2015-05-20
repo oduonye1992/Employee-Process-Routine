@@ -23,9 +23,9 @@ define('Content_Type_PLAIN',	'text/plain');
 
 // Database-related configuration
 //define('Database_DSN', 'sqlsrv:server=192.168.1.52\SQLEXPRESS;Database=STANBICIBTC');
-define('Database_DSN', 'dblib:host=10.234.240.48\SQLEXPRESS;dbname=STANBICIBTC');
+define('Database_DSN', 'dblib:host=\SQLEXPRESS;dbname=STANBICIBTC');
 define('Database_Username', 'sa');
-define('Database_Password', 'redc0dec!');
+define('Database_Password', '');
 
 define('Employees_Table_Catalog', 'STANBICIBTC');
 define('Employees_Table_Schema', 'dbo');
